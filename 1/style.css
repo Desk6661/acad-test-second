@@ -1,0 +1,16 @@
+.second-part{
+    position: relative;
+}
+
+.a-cen{
+    display: flex;
+    align-items: center;
+}
+
+
+.navnav{
+    position: absolute;
+    top: 0;
+    z-index: 11;
+    background-color: transparent!important;
+}
